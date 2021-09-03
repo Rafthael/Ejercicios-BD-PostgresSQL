@@ -1,0 +1,6 @@
+
+insert into productos values(1, 1011, 'Platanos', 1078.90);
+insert into productos values(2, 1012, 'Tomates', 1078.90);
+insert into productos values(3, 1013, 'Repollos', 1078.90);
+insert into productos values(4, 1014, 'Aji', 1078.90);
+insert into productos values(5, 1015, 'Perejil', 1078.90);
